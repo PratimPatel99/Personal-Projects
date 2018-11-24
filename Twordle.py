@@ -2,7 +2,7 @@ import twitter
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 #Pratim Patel
-
+"""Simple python program that takes in a users Twitter timeline, and creates a wordle from it"""
 
 twitter_consumer_key = 'dhRcqO7NaZf8wk3hTVCVAoOzA'
 twitter_consumer_secret = 'ns8oQfE2Pg8cVFAd70jbei2E3hJzpgWIO3gHlVPtO4WwwvWlau'
